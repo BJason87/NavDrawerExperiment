@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nav Drawer Experiment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bonaventura Jason</string>
+    <string name="nav_header_subtitle">bonaventurajason87@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="choose_camera">Camera Import</string>
+    <string name="choose_gallery">Gallery</string>
+    <string name="choose_slideshow">Slideshow</string>
+    <string name="choose_tools">Tools</string>
+    <string name="choose_share">Share</string>
+    <string name="choose_send">Send</string>
+</resources>
